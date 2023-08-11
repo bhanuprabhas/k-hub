@@ -1,0 +1,50 @@
+<div id="testimonials">
+          <div class="testimonials_container">
+            <div class="testimonial-cards">
+              <div class="testimonial-card">
+                <img src="images/rksir.jpg" alt="Student 1" />
+                <p>Associate at INRY </p>
+                <h4>Satya yalla(Alumni)</h4>
+                <p class="title">Computer Science Student</p>
+              </div>
+              <div class="testimonial-card">
+                <img src="images/rksir.jpg" alt="Student 1" />
+                <p>An Alumni of IIIT Hyderabad </p>
+                <h4>Gunnam Durga Bhavani(Alumni)</h4>
+                <p class="title">Computer Science Student</p>
+              </div>
+              <div class="testimonial-card">
+                <img src="images/rksir.jpg" alt="Student 1" />
+                <p>Student Coordinator</p>
+                <h4>Praveen kumar</h4>
+                <p classe="title">Electronics Student</p>
+              </div>
+              <div class="testimonial-card">
+                <img src="images/rksir.jpg" alt="Student 1" />
+                <p>An Alumni of IIIT Hyderabad </p>
+                <h4>Gunnam Durga Bhavani(Alumni)</h4>
+                <p class="title">Computer Science Student</p>
+              </div>
+              <div class="testimonial-card">
+                <img src="images/rksir.jpg" alt="Student 1" />
+                <p>Student Coordinator</p>
+                <h4>Praveen kumar</h4>
+                <p classe="title">Electronics Student</p>
+              </div>
+              <div class="testimonial-card">
+                <img src="images/rksir.jpg" alt="Student 1" />
+                <p>An Alumni of IIIT Hyderabad </p>
+                <h4>Gunnam Durga Bhavani(Alumni)</h4>
+                <p class="title">Computer Science Student</p>
+              </div>
+              <div class="testimonial-card">
+                <img src="images/rksir.jpg" alt="Student 1" />
+                <p>Student Coordinator</p>
+                <h4>Praveen kumar</h4>
+                <p classe="title">Electronics Student</p>
+              </div>
+            </div>
+          </div>
+    </div>
+</div>
+

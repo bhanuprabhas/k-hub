@@ -5,6 +5,14 @@ function showSlide(index) {
   slider.style.transform = `translateX(-${index * 100}%)`;
 }
 
+
+const botButton = document.getElementById("botButton");
+
+botButton.addEventListener("click", function() {
+    alert("Hi, I am a new bot!");
+});
+
+
 // Initial slide display
 showSlide(slideIndex);
 
